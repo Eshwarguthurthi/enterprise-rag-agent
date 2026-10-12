@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Generated vector database
+vector_db/faiss_index/
+
+# Logs
+*.log
+
+# Salesforce CLI local files
+.sf/
+
+.sf/
